@@ -7,7 +7,7 @@ Interface
 >> $C:\Users\user> mkdir md_converter
 > 2. Change current workspace in md_converter
 >> $C:\Users\user> cd md_converter
-> 3. Put md_converter.java, MDElementVisitor.java file in md_converter directory
+> 3. Put md_converter.java, MDElementVisitor.java, README.md(input) file in md_converter directory
 > 4. Compile java file (md_converter.java, MDElementVisitor.java)
 >> $C:\Users\user\md_converter> javac -d . *.java
 > 5. Execute java program with 3 input option
