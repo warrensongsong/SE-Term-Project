@@ -14,4 +14,4 @@ Interface
 > - first input is html name file for output
 > - second input is README.md file for input
 > - third input is conversion option : plain, stylish, slide
->> $C:\Users\user\md_converter> java -classpath . md_converter.mdconverter output.html README.md stylish
+>> $C:\Users\user\md_converter> java -classpath . md_converter.md_converter output.html README.md stylish
